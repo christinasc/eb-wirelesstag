@@ -25,6 +25,8 @@ else
     <section class="congratulations">
         <h1>Inventory Cooling Units @EYSM Biochem </h1>
         <p> <a href="biochem.php">Biochem Lab Units </a></p>
+        <p> <a href="goldlab.php">Gold Lab Units </a></p>
+
 
         <p><a href="https://my.wirelesstag.net/eth/signin.html"> Wireless Tag Monitoring Login</a></p>
 

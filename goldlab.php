@@ -25,6 +25,10 @@ else
     <section class="congratulations">
         <h1>Gold Lab Cooling Units @EYSM </h1>
         <p><a href="https://my.wirelesstag.net/eth/signin.html"> Wireless Tag Monitoring Login</a></p>
+
+        <p> <a href="index.php">Inventory Units </a></p>
+        <p> <a href="biochem.php">Biochem Lab Units </a></p>
+
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
 

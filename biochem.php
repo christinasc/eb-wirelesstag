@@ -24,7 +24,11 @@ else
 <body>
     <section class="congratulations">
         <h1>Biochem Production Lab Cooling Units @EYSM </h1>
+        <p> <a href="index.php">Inventory Units </a></p>
+        <p> <a href="goldlab.php">Gold Lab Units </a></p>
+
         <p><a href="https://my.wirelesstag.net/eth/signin.html"> Wireless Tag Monitoring Login</a></p>
+
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
 
