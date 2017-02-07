@@ -36,6 +36,9 @@ else
         <h2>Current Status</h2>
         <ul>
 
+<li> <a href="https://my.wirelesstag.net/eth/tempStats.html?736bdbf3-b45e-4009-9e00-572ca90de66f&Biochem-Cold-Room&C"> <b> Cold Room - View Graph </b></a>
+
+<iframe src="https://my.wirelesstag.net/ethSharedFrame.aspx?pic=1&hide_name=0&hide_temp=0&hide_rh=0&hide_updated=0&hide_signal=1&hide_battery=0&hide_battery_volt=1&hide_motion=1&uuids=736bdbf3-b45e-4009-9e00-572ca90de66f" height="62" width="100%" frameborder="0" scrolling="no"></iframe>
 
 
     <li><a href="https://my.wirelesstag.net/eth/tempStats.html?b3630820-d83c-4f98-9d9b-0e7f3ba0009b&Biochem-Lab-Fridge&C"> Biochem Lab Fridge - View Graph </a>
